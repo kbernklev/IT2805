@@ -1,0 +1,26 @@
+html{
+  background-color: #c65353;
+}
+#title{
+  text-align : center;
+}
+body {
+  font-family:"Verdana", sans-serif;
+  max-width: 300px;
+  margin:20px auto;
+  background-color: white;
+  padding:10px;
+  border-radius:25px;
+}
+ul{
+list-style-type: none;
+padding:10px 0;
+
+}
+
+li{
+  margin: 10px 0;
+  background-color: #df9f9f;
+  padding:12px;
+  border-radius:20px;
+}
